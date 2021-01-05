@@ -1,0 +1,22 @@
+{
+  "name": "jscoverage",
+  "version": "1.0.0",
+  "description": "Generates a Javascript coverage report given some URLs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkz13250/JScoverage.git"
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkz13250/JScoverage/issues"
+  },
+  "homepage": "https://github.com/kkz13250/JScoverage#readme",
+  "dependencies": {
+    "chrome-remote-interface": "^0.28.2"
+  }
+}
