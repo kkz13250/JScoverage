@@ -28,7 +28,7 @@ CDP((client) => {
     ])
     .then(() => {
       return Page.navigate({
-        url: 'http://localhost:8070/'
+        url: 'https://www.google.com/'
       });
     })
     //.then(() => Profiler.getBestEffortCoverage())
