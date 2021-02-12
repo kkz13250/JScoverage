@@ -1,439 +1,384 @@
------https://www.google.com/
-Function Name:google.time
-ranges[{"startOffset":441,"endOffset":470,"count":1}]
------https://www.google.com/
-Function Name:_.We
-ranges[{"startOffset":12262,"endOffset":12407,"count":1}]
-Function Name:_.Xe
-ranges[{"startOffset":12534,"endOffset":12903,"count":1}]
-Function Name:_.Xe.init
-ranges[{"startOffset":12977,"endOffset":14103,"count":1}]
-Function Name:b
-ranges[{"startOffset":16850,"endOffset":16896,"count":1}]
-Function Name:uf
-ranges[{"startOffset":17916,"endOffset":17994,"count":1}]
-Function Name:rf
-ranges[{"startOffset":17999,"endOffset":18511,"count":1}]
-Function Name:gm.flush
-ranges[{"startOffset":42051,"endOffset":43358,"count":1}]
-Function Name:
-ranges[{"startOffset":42610,"endOffset":43007,"count":0}]
-Function Name:
-ranges[{"startOffset":43024,"endOffset":43307,"count":0}]
-Function Name:gm.D
-ranges[{"startOffset":43374,"endOffset":43415,"count":1}]
-Function Name:jm
-ranges[{"startOffset":43424,"endOffset":43549,"count":1}]
-Function Name:
-ranges[{"startOffset":43441,"endOffset":43547,"count":0}]
-Function Name:km
-ranges[{"startOffset":43553,"endOffset":43795,"count":1}]
------https://www.google.com/xjs/_/js/k=xjs.s.en_US.F9VRQp8xDGU.O/ck=xjs.s.-kYWoKIk2N0.L.W.O/m=cdos,dpf,hsm,jsa,pfd,d,csi/am=AAAAAAAAACoAAIABAAAAwBLYOyAB_00AwAWbOAAAAACQAC4JGiUNSCgIAAEAAMiyWgIAAiAAAAI/d=1/dg=2/br=1/ct=zgms/rs=ACT90oFcqoV5O9-BBb8BqQRYoAU2B2QhGQ
-Function Name:s_oa
-ranges[{"startOffset":1165,"endOffset":1226,"count":1}]
-Function Name:s_na
-ranges[{"startOffset":1232,"endOffset":1298,"count":1}]
-Function Name:s_Oaa
-ranges[{"startOffset":6310,"endOffset":6489,"count":1}]
-Function Name:s_Naa
-ranges[{"startOffset":6496,"endOffset":6672,"count":1}]
-Function Name:s_3aa
-ranges[{"startOffset":7548,"endOffset":7653,"count":1}]
-Function Name:s_eb
-ranges[{"startOffset":12457,"endOffset":12484,"count":1}]
-Function Name:d
-ranges[{"startOffset":14289,"endOffset":14344,"count":1}]
-Function Name:
-ranges[{"startOffset":14428,"endOffset":14598,"count":1}]
-Function Name:s_sb
-ranges[{"startOffset":14605,"endOffset":14653,"count":1}]
-Function Name:s_b
-ranges[{"startOffset":31900,"endOffset":32017,"count":1}]
-Function Name:s_0ba
-ranges[{"startOffset":32024,"endOffset":32096,"count":1}]
-Function Name:s_pb
-ranges[{"startOffset":32102,"endOffset":32156,"count":1}]
-Function Name:s_Ja
-ranges[{"startOffset":52136,"endOffset":52148,"count":1}]
-Function Name:s_Cea
-ranges[{"startOffset":52270,"endOffset":52353,"count":1}]
-Function Name:s_ra
-ranges[{"startOffset":52359,"endOffset":52443,"count":1}]
-Function Name:s_ua
-ranges[{"startOffset":52449,"endOffset":52519,"count":1}]
-Function Name:s_va
-ranges[{"startOffset":52525,"endOffset":52620,"count":1}]
-Function Name:s_Fea
-ranges[{"startOffset":52680,"endOffset":52734,"count":1}]
-Function Name:
-ranges[{"startOffset":53246,"endOffset":53322,"count":1}]
-Function Name:s_ga
-ranges[{"startOffset":53942,"endOffset":54001,"count":1}]
-Function Name:s_Zc
-ranges[{"startOffset":54927,"endOffset":54948,"count":1}]
-Function Name:s_1c
-ranges[{"startOffset":55670,"endOffset":55720,"count":1}]
-Function Name:s_2ba
-ranges[{"startOffset":80100,"endOffset":80193,"count":1}]
-Function Name:s_.Ze
-ranges[{"startOffset":112698,"endOffset":112724,"count":1}]
-Function Name:s_tg.dispose
-ranges[{"startOffset":114903,"endOffset":114948,"count":1}]
-Function Name:s_tg.Tb
-ranges[{"startOffset":115130,"endOffset":115191,"count":1}]
-Function Name:s_vg
-ranges[{"startOffset":115281,"endOffset":115338,"count":1}]
-Function Name:s_yg
-ranges[{"startOffset":115546,"endOffset":115666,"count":1}]
-Function Name:s_Bg
-ranges[{"startOffset":116052,"endOffset":116432,"count":1}]
-Function Name:s_.init
-ranges[{"startOffset":116543,"endOffset":117706,"count":1}]
-Function Name:s_Cg
-ranges[{"startOffset":118324,"endOffset":118359,"count":1}]
-Function Name:s_Gia
-ranges[{"startOffset":118530,"endOffset":118605,"count":1}]
-Function Name:s_Dg.remove
-ranges[{"startOffset":118896,"endOffset":119075,"count":1}]
-Function Name:s_Iia
-ranges[{"startOffset":119087,"endOffset":119227,"count":1}]
-Function Name:s_Dg.Kea
-ranges[{"startOffset":119581,"endOffset":119675,"count":1}]
-Function Name:s_Hia
-ranges[{"startOffset":119900,"endOffset":120029,"count":1}]
-Function Name:b
-ranges[{"startOffset":120804,"endOffset":120850,"count":1}]
-Function Name:s_Fg
-ranges[{"startOffset":121111,"endOffset":121352,"count":1}]
-Function Name:s_Gg
-ranges[{"startOffset":121358,"endOffset":121719,"count":1}]
-Function Name:s_Uia
-ranges[{"startOffset":122272,"endOffset":122351,"count":1}]
-Function Name:s_Ria
-ranges[{"startOffset":122358,"endOffset":122889,"count":1}]
-Function Name:s_Oia
-ranges[{"startOffset":122896,"endOffset":122951,"count":1}]
-Function Name:s_Mia
-ranges[{"startOffset":123011,"endOffset":123132,"count":1}]
-Function Name:a.<computed>.a.<computed>
-ranges[{"startOffset":123077,"endOffset":123113,"count":0}]
-Function Name:s_Wia
-ranges[{"startOffset":123144,"endOffset":123219,"count":1}]
-Function Name:s_mb
-ranges[{"startOffset":129591,"endOffset":129731,"count":1}]
-Function Name:s_Ng
-ranges[{"startOffset":129868,"endOffset":129902,"count":1}]
-Function Name:
-ranges[{"startOffset":138764,"endOffset":138829,"count":1}]
-Function Name:s_Rja
-ranges[{"startOffset":139066,"endOffset":139245,"count":1}]
-Function Name:s_.getAll
-ranges[{"startOffset":139320,"endOffset":139358,"count":1}]
-Function Name:s_.set
-ranges[{"startOffset":139366,"endOffset":139522,"count":1}]
-Function Name:
-ranges[{"startOffset":139445,"endOffset":139498,"count":0}]
-Function Name:s_.append
-ranges[{"startOffset":139534,"endOffset":139612,"count":1}]
-Function Name:s_.has
-ranges[{"startOffset":139620,"endOffset":139654,"count":1}]
-Function Name:s_.keys
-ranges[{"startOffset":139793,"endOffset":139819,"count":1}]
-Function Name:s_Rja.<computed>
-ranges[{"startOffset":139853,"endOffset":140040,"count":1}]
-Function Name:s_Sja
-ranges[{"startOffset":140052,"endOffset":140064,"count":1}]
-Function Name:s_Sja.Pc
-ranges[{"startOffset":140084,"endOffset":140115,"count":1}]
-Function Name:s_Sja.ka
-ranges[{"startOffset":140135,"endOffset":140172,"count":1}]
-Function Name:s_Tja
-ranges[{"startOffset":140184,"endOffset":140221,"count":1}]
-Function Name:s_Tja.Pc
-ranges[{"startOffset":140241,"endOffset":140282,"count":1}]
-Function Name:s_Tja.ka
-ranges[{"startOffset":140302,"endOffset":140377,"count":1}]
-Function Name:s_Uja
-ranges[{"startOffset":140389,"endOffset":140478,"count":1}]
-Function Name:s_Uja.Pc
-ranges[{"startOffset":140498,"endOffset":140677,"count":1}]
-Function Name:s_3g
-ranges[{"startOffset":140688,"endOffset":140749,"count":1}]
-Function Name:s_.setValue
-ranges[{"startOffset":140780,"endOffset":140954,"count":1}]
-Function Name:s_.set
-ranges[{"startOffset":141194,"endOffset":141272,"count":1}]
-Function Name:s_.toString
-ranges[{"startOffset":141625,"endOffset":141686,"count":1}]
-Function Name:s_6g
-ranges[{"startOffset":145573,"endOffset":145585,"count":1}]
-Function Name:s_7g
-ranges[{"startOffset":145682,"endOffset":145907,"count":1}]
-Function Name:c.next
-ranges[{"startOffset":145805,"endOffset":145879,"count":1}]
-Function Name:s_8g
-ranges[{"startOffset":145913,"endOffset":146079,"count":1}]
-Function Name:s_cka
-ranges[{"startOffset":146086,"endOffset":146216,"count":1}]
-Function Name:a.next
-ranges[{"startOffset":146132,"endOffset":146206,"count":1}]
-Function Name:s_dka
-ranges[{"startOffset":146223,"endOffset":146338,"count":1}]
-Function Name:a.next
-ranges[{"startOffset":146269,"endOffset":146328,"count":1}]
-Function Name:s_fka
-ranges[{"startOffset":146345,"endOffset":146381,"count":1}]
-Function Name:s_eka
-ranges[{"startOffset":146388,"endOffset":146567,"count":1}]
-Function Name:a.next
-ranges[{"startOffset":146443,"endOffset":146557,"count":1}]
-Function Name:s_.Mp
-ranges[{"startOffset":147519,"endOffset":147748,"count":1}]
-Function Name:d.next
-ranges[{"startOffset":147567,"endOffset":147738,"count":1}]
-Function Name:s_.Mp
-ranges[{"startOffset":150701,"endOffset":150732,"count":1}]
-Function Name:s_.Mp
-ranges[{"startOffset":151333,"endOffset":151589,"count":1}]
-Function Name:b.next
-ranges[{"startOffset":151437,"endOffset":151460,"count":0}]
-Function Name:b.next
-ranges[{"startOffset":151478,"endOffset":151579,"count":1}]
-Function Name:s_Gaa.Mp
-ranges[{"startOffset":154157,"endOffset":154190,"count":1}]
-Function Name:s_.Mp
-ranges[{"startOffset":154774,"endOffset":154921,"count":1}]
-Function Name:
-ranges[{"startOffset":154870,"endOffset":154901,"count":0}]
-Function Name:s_.Mp
-ranges[{"startOffset":155296,"endOffset":155428,"count":1}]
-Function Name:
-ranges[{"startOffset":155351,"endOffset":155405,"count":1}]
-Function Name:s_.Mp
-ranges[{"startOffset":156193,"endOffset":156388,"count":1}]
-Function Name:
-ranges[{"startOffset":156242,"endOffset":156362,"count":0}]
-Function Name:
-ranges[{"startOffset":156364,"endOffset":156386,"count":0}]
-Function Name:s_Na
-ranges[{"startOffset":156648,"endOffset":157283,"count":1}]
-Function Name:
-ranges[{"startOffset":157121,"endOffset":157154,"count":0}]
-Function Name:get
-ranges[{"startOffset":157217,"endOffset":157244,"count":1}]
-Function Name:set
-ranges[{"startOffset":157249,"endOffset":157279,"count":0}]
-Function Name:s_Bka
-ranges[{"startOffset":157290,"endOffset":157393,"count":1}]
-Function Name:s_Dka
-ranges[{"startOffset":157400,"endOffset":157459,"count":1}]
-Function Name:s_Na.toString
-ranges[{"startOffset":157577,"endOffset":157794,"count":1}]
-Function Name:s_ch
-ranges[{"startOffset":158571,"endOffset":158697,"count":1}]
-Function Name:s_ch.ka
-ranges[{"startOffset":158716,"endOffset":158789,"count":1}]
-Function Name:s_ih
-ranges[{"startOffset":165757,"endOffset":165906,"count":1}]
-Function Name:s_jh
-ranges[{"startOffset":165970,"endOffset":166015,"count":1}]
-Function Name:s_ih.uc
-ranges[{"startOffset":166232,"endOffset":166275,"count":1}]
-Function Name:s_kh
-ranges[{"startOffset":166335,"endOffset":166401,"count":1}]
-Function Name:
-ranges[{"startOffset":166359,"endOffset":166390,"count":1}]
-Function Name:s_ih.log
-ranges[{"startOffset":166421,"endOffset":166464,"count":1}]
-Function Name:s_.e8
-ranges[{"startOffset":172133,"endOffset":172160,"count":1}]
-Function Name:s_.dispatchEvent
-ranges[{"startOffset":172328,"endOffset":172799,"count":1}]
-Function Name:s_.Ue
-ranges[{"startOffset":173019,"endOffset":173076,"count":1}]
-Function Name:s_.oy
-ranges[{"startOffset":173083,"endOffset":173119,"count":1}]
-Function Name:s_.hea
-ranges[{"startOffset":173201,"endOffset":173447,"count":1}]
-Function Name:s__ba
-ranges[{"startOffset":173681,"endOffset":173778,"count":1}]
-Function Name:s_rb.eM
-ranges[{"startOffset":174282,"endOffset":174325,"count":1}]
-Function Name:s_uh
-ranges[{"startOffset":174335,"endOffset":174384,"count":1}]
-Function Name:s_rb.Fa
-ranges[{"startOffset":174403,"endOffset":174478,"count":1}]
-Function Name:s_yla
-ranges[{"startOffset":174555,"endOffset":174616,"count":1}]
-Function Name:s_Gb.addCallback
-ranges[{"startOffset":201159,"endOffset":201200,"count":1}]
-Function Name:s_ii
-ranges[{"startOffset":201360,"endOffset":201421,"count":1}]
-Function Name:s_Gb.gna
-ranges[{"startOffset":202032,"endOffset":202714,"count":1}]
-Function Name:s_si.removeAll
-ranges[{"startOffset":216686,"endOffset":216777,"count":1}]
-Function Name:
-ranges[{"startOffset":216710,"endOffset":216759,"count":0}]
-Function Name:s_si.Tb
-ranges[{"startOffset":216796,"endOffset":216846,"count":1}]
-Function Name:s_K.Tb
-ranges[{"startOffset":220536,"endOffset":220597,"count":1}]
-Function Name:s_yi
-ranges[{"startOffset":222570,"endOffset":222643,"count":1}]
-Function Name:s_Bda.Aa
-ranges[{"startOffset":240632,"endOffset":240863,"count":1}]
-Function Name:s_8oa
-ranges[{"startOffset":240874,"endOffset":240988,"count":1}]
-Function Name:
-ranges[{"startOffset":240929,"endOffset":240945,"count":1}]
-Function Name:s_Bda.Tb
-ranges[{"startOffset":241009,"endOffset":241089,"count":1}]
-Function Name:s_xZa
-ranges[{"startOffset":468433,"endOffset":468445,"count":1}]
-Function Name:s_xZa.log
-ranges[{"startOffset":468466,"endOffset":468598,"count":1}]
-Function Name:s_bh
-ranges[{"startOffset":470547,"endOffset":470619,"count":1}]
-Function Name:s_h.gWa
-ranges[{"startOffset":508372,"endOffset":508534,"count":1}]
-Function Name:s_Bt
-ranges[{"startOffset":644505,"endOffset":644592,"count":1}]
------https://www.google.com/xjs/_/js/k=xjs.s.en_US.F9VRQp8xDGU.O/ck=xjs.s.-kYWoKIk2N0.L.W.O/am=AAAAAAAAACoAAIABAAAAwBLYOyAB_00AwAWbOAAAAACQAC4JGiUNSCgIAAEAAMiyWgIAAiAAAAI/d=1/exm=cdos,csi,d,dpf,hsm,jsa,pfd/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oFcqoV5O9-BBb8BqQRYoAU2B2QhGQ/m=NBZ7u,aa,abd,async,cvn5cb,dvl,fEVMic,foot,ifl,lu,m,mUpTid,mu,sb_wiz,sf,sonic,spch,wft,xz7cCd?xjs=s1
-Function Name:s_Dtg
-ranges[{"startOffset":898,"endOffset":1011,"count":1}]
-Function Name:
-ranges[{"startOffset":943,"endOffset":1009,"count":1}]
-Function Name:s_oP.Ca
-ranges[{"startOffset":1030,"endOffset":1207,"count":1}]
-Function Name:s_oP.Ue
-ranges[{"startOffset":1517,"endOffset":1756,"count":1}]
-Function Name:s_oP.oy
-ranges[{"startOffset":1775,"endOffset":1835,"count":1}]
-Function Name:s_oP.Ad
-ranges[{"startOffset":1938,"endOffset":2009,"count":1}]
-Function Name:s_qP.Tb
-ranges[{"startOffset":2912,"endOffset":3281,"count":1}]
-Function Name:s_Ltg
-ranges[{"startOffset":3383,"endOffset":3418,"count":1}]
-Function Name:s_sP
-ranges[{"startOffset":3429,"endOffset":3461,"count":1}]
-Function Name:s_sP.Aa
-ranges[{"startOffset":3522,"endOffset":3542,"count":1}]
-Function Name:s_Mtg
-ranges[{"startOffset":3592,"endOffset":3662,"count":1}]
-Function Name:s_Otg
-ranges[{"startOffset":3795,"endOffset":3807,"count":1}]
-Function Name:s_Ptg.isEmpty
-ranges[{"startOffset":4055,"endOffset":4099,"count":1}]
-Function Name:s_Rtg
-ranges[{"startOffset":4224,"endOffset":4369,"count":1}]
-Function Name:s_Stg
-ranges[{"startOffset":4376,"endOffset":4632,"count":1}]
-Function Name:
-ranges[{"startOffset":4478,"endOffset":4556,"count":0}]
-Function Name:s_Ttg
-ranges[{"startOffset":4644,"endOffset":4706,"count":1}]
-Function Name:s_Ttg.ka
-ranges[{"startOffset":4742,"endOffset":4773,"count":1}]
-Function Name:
-ranges[{"startOffset":5134,"endOffset":5161,"count":1}]
-Function Name:s_Wtg
-ranges[{"startOffset":5192,"endOffset":5347,"count":1}]
-Function Name:
-ranges[{"startOffset":5264,"endOffset":5344,"count":0}]
-Function Name:s_Xtg.Tb
-ranges[{"startOffset":5619,"endOffset":5738,"count":1}]
-Function Name:s_tP.Ca
-ranges[{"startOffset":5943,"endOffset":6256,"count":1}]
-Function Name:s_tP.log
-ranges[{"startOffset":6324,"endOffset":6736,"count":1}]
-Function Name:s_0tg
-ranges[{"startOffset":6823,"endOffset":6901,"count":1}]
-Function Name:
-ranges[{"startOffset":6875,"endOffset":6897,"count":0}]
-Function Name:s_tP.Tb
-ranges[{"startOffset":7045,"endOffset":7195,"count":1}]
-Function Name:s__tg
-ranges[{"startOffset":7207,"endOffset":7370,"count":1}]
-Function Name:s_2tg.Ca
-ranges[{"startOffset":7482,"endOffset":7591,"count":1}]
-Function Name:
-ranges[{"startOffset":7528,"endOffset":7558,"count":0}]
-Function Name:s_1tg.ka
-ranges[{"startOffset":7747,"endOffset":7906,"count":1}]
-Function Name:
-ranges[{"startOffset":7818,"endOffset":7875,"count":1}]
-Function Name:
-ranges[{"startOffset":8382,"endOffset":8418,"count":1}]
-Function Name:
-ranges[{"startOffset":8437,"endOffset":8473,"count":1}]
-Function Name:
-ranges[{"startOffset":8563,"endOffset":8599,"count":1}]
-Function Name:s_8tg
-ranges[{"startOffset":9283,"endOffset":9421,"count":1}]
-Function Name:s_$tg.Kb
-ranges[{"startOffset":9441,"endOffset":9482,"count":1}]
-Function Name:s_lug
-ranges[{"startOffset":10375,"endOffset":10451,"count":1}]
-Function Name:s_kug.Tb
-ranges[{"startOffset":10724,"endOffset":10776,"count":1}]
-Function Name:dispose
-ranges[{"startOffset":10927,"endOffset":10974,"count":1}]
-Function Name:s_rug
-ranges[{"startOffset":11733,"endOffset":11807,"count":1}]
-Function Name:s_rug.ka
-ranges[{"startOffset":11843,"endOffset":11898,"count":1}]
-Function Name:s_sug
-ranges[{"startOffset":11910,"endOffset":12028,"count":1}]
-Function Name:s_tug
-ranges[{"startOffset":12134,"endOffset":12226,"count":1}]
-Function Name:s_vug
-ranges[{"startOffset":12336,"endOffset":12383,"count":1}]
-Function Name:s_xug
-ranges[{"startOffset":12440,"endOffset":12615,"count":1}]
-Function Name:s_yug
-ranges[{"startOffset":12622,"endOffset":12841,"count":1}]
-Function Name:s_yug.PJ
-ranges[{"startOffset":12861,"endOffset":12965,"count":1}]
-Function Name:s_Gug
-ranges[{"startOffset":14576,"endOffset":14697,"count":1}]
-Function Name:s_Fug
-ranges[{"startOffset":14704,"endOffset":15072,"count":1}]
-Function Name:s_Hug.Tb
-ranges[{"startOffset":15692,"endOffset":15768,"count":1}]
-Function Name:s_Oug.Tb
-ranges[{"startOffset":18246,"endOffset":18320,"count":1}]
-Function Name:s_Pug
-ranges[{"startOffset":18331,"endOffset":18395,"count":1}]
-Function Name:s_1ug.Tb
-ranges[{"startOffset":20865,"endOffset":20935,"count":1}]
-Function Name:s_9ug
-ranges[{"startOffset":22866,"endOffset":23249,"count":1}]
-Function Name:s_7ug.Qa
-ranges[{"startOffset":23493,"endOffset":23613,"count":1}]
-Function Name:s_7ug.Tb
-ranges[{"startOffset":23930,"endOffset":24002,"count":1}]
-Function Name:s_dvg
-ranges[{"startOffset":25885,"endOffset":25961,"count":1}]
-Function Name:s_cvg.Tb
-ranges[{"startOffset":25981,"endOffset":26033,"count":1}]
-Function Name:
-ranges[{"startOffset":26300,"endOffset":26320,"count":1}]
-Function Name:s_fvg.Da
-ranges[{"startOffset":26768,"endOffset":26802,"count":1}]
-Function Name:s_gvg.stop
-ranges[{"startOffset":27065,"endOffset":27152,"count":1}]
-Function Name:dispose
-ranges[{"startOffset":27705,"endOffset":27746,"count":1}]
------https://www.gstatic.com/og/_/js/k=og.og2.en_US.tXm8pu_NbSs.O/rt=j/m=def,aswid/exm=in,fot/d=1/ed=1/rs=AA2YrTsDgsMYyqvwZm5kyAD4Gu4fvq58Ng
-Function Name:fn.getIframeEl
-ranges[{"startOffset":170629,"endOffset":170707,"count":1}]
-Function Name:ln.getIframeEl
-ranges[{"startOffset":171293,"endOffset":171332,"count":1}]
-Function Name:ln.remove
-ranges[{"startOffset":172426,"endOffset":172493,"count":1}]
-Function Name:wn.isVisible
-ranges[{"startOffset":174620,"endOffset":174709,"count":1}]
-Function Name:_.k.gk
-ranges[{"startOffset":176606,"endOffset":176710,"count":1}]
+URL: https://www.cnn.com
+Total bytes: 9042083
+Total unused bytes: 4496973
+Total unused percentage: 0.49733816864985647
+URL: https://www.nytimes.com
+Total bytes: 6248018
+Total unused bytes: 2017048
+Total unused percentage: 0.32283005586731667
+URL: https://www.theguardian.com
+Total bytes: 2670059
+Total unused bytes: 1316250
+Total unused percentage: 0.49296663481968
+URL: https://www.news.google.com
+Total bytes: 2065679
+Total unused bytes: 949769
+Total unused percentage: 0.4597853780766518
+URL: https://www.washingtonpost.com
+Total bytes: 6137839
+Total unused bytes: 2481506
+Total unused percentage: 0.4042963655449418
+URL: https://www.bbc.co.uk
+Total bytes: 4420380
+Total unused bytes: 1975513
+Total unused percentage: 0.4469102203882924
+URL: https://www.indiatimes.com
+Total bytes: 2705589
+Total unused bytes: 1660549
+Total unused percentage: 0.6137476904289602
+URL: https://www.news.yahoo.com
+Total bytes: 3594375
+Total unused bytes: 1975214
+Total unused percentage: 0.5495291949226222
+URL: https://www.forbes.com
+Total bytes: 6924500
+Total unused bytes: 3202367
+Total unused percentage: 0.46246905913784386
+URL: https://www.foxnews.com
+Total bytes: 11490127
+Total unused bytes: 5686182
+Total unused percentage: 0.49487547004484805
+URL: https://www.weather.com
+Total bytes: 1717453
+Total unused bytes: 775758
+Total unused percentage: 0.4516909633043815
+URL: https://www.shutterstock.com
+Total bytes: 4917673
+Total unused bytes: 2343125
+Total unused percentage: 0.4764702736436522
+URL: https://www.huffingtonpost.com
+Total bytes: 1777729
+Total unused bytes: 1124357
+Total unused percentage: 0.6324681658453004
+URL: https://www.accuweather.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.timesofindia.indiatimes.com
+Total bytes: 625403
+Total unused bytes: 256558
+Total unused percentage: 0.4102282848019597
+URL: https://www.bloomberg.com
+Total bytes: 466233
+Total unused bytes: 111587
+Total unused percentage: 0.23933741283864504
+URL: https://www.usatoday.com
+Total bytes: 4196350
+Total unused bytes: 1894065
+Total unused percentage: 0.45136011057228304
+URL: https://www.wsj.com
+Total bytes: 27947561
+Total unused bytes: 17759437
+Total unused percentage: 0.6354557021988431
+URL: https://www.cnbc.com
+Total bytes: 2084263
+Total unused bytes: 881549
+Total unused percentage: 0.42295478065867886
+URL: https://www.reuters.com
+Total bytes: 6382657
+Total unused bytes: 3859707
+Total unused percentage: 0.6047179097983802
+URL: https://www.wunderground.com
+Total bytes: 2930749
+Total unused bytes: 1474551
+Total unused percentage: 0.50313111085255
+URL: https://www.money.cnn.com
+Total bytes: 9318916
+Total unused bytes: 4572558
+Total unused percentage: 0.49067488106985835
+URL: https://www.time.com
+Total bytes: 3527000
+Total unused bytes: 1595340
+Total unused percentage: 0.45232208675928554
+URL: https://www.drudgereport.com
+Total bytes: 900927
+Total unused bytes: 462437
+Total unused percentage: 0.5132901999829065
+URL: https://www.chron.com
+Total bytes: 12342385
+Total unused bytes: 5291871
+Total unused percentage: 0.4287559495186708
+URL: https://www.usnews.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.cbsnews.com
+Total bytes: 70084
+Total unused bytes: 38067
+Total unused percentage: 0.5431624907254152
+URL: https://www.thehill.com
+Total bytes: 5640173
+Total unused bytes: 2988412
+Total unused percentage: 0.5298440313798886
+URL: https://www.news.com.au
+Total bytes: 5721439
+Total unused bytes: 2313380
+Total unused percentage: 0.40433534290936246
+URL: https://www.nbcnews.com
+Total bytes: 10327150
+Total unused bytes: 3600138
+Total unused percentage: 0.3486090547730981
+URL: https://www.economictimes.indiatimes.com
+Total bytes: 8489413
+Total unused bytes: 3188605
+Total unused percentage: 0.3755978181294749
+URL: https://www.theatlantic.com
+Total bytes: 4504297
+Total unused bytes: 2522859
+Total unused percentage: 0.560100499589614
+URL: https://www.latimes.com
+Total bytes: 6111844
+Total unused bytes: 3376049
+Total unused percentage: 0.5523781366147434
+URL: https://www.abcnews.go.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.chinadaily.com.cn
+Total bytes: 246516
+Total unused bytes: 115153
+Total unused percentage: 0.46712180953771765
+URL: https://www.dw.com
+Total bytes: 4430593
+Total unused bytes: 2304718
+Total unused percentage: 0.5201827385182977
+URL: https://www.indianexpress.com
+Total bytes: 1131296
+Total unused bytes: 609597
+Total unused percentage: 0.5388483650609567
+URL: https://www.thehindu.com
+Total bytes: 1692693
+Total unused bytes: 1117410
+Total unused percentage: 0.6601374259833295
+URL: https://www.weather.gov
+Total bytes: 701892
+Total unused bytes: 470908
+Total unused percentage: 0.6709123340912847
+URL: https://www.thedailybeast.com
+Total bytes: 6568961
+Total unused bytes: 3639431
+Total unused percentage: 0.5540344964751656
+URL: https://www.sfgate.com
+Total bytes: 11604353
+Total unused bytes: 5439213
+Total unused percentage: 0.4687217805249461
+URL: https://www.variety.com
+Total bytes: 8747571
+Total unused bytes: 4199312
+Total unused percentage: 0.48005463459513503
+URL: https://www.cbc.ca
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.hollywoodreporter.com
+Total bytes: 8198670
+Total unused bytes: 4509097
+Total unused percentage: 0.5499790819730517
+URL: https://www.newsweek.com
+Total bytes: 667568
+Total unused bytes: 312855
+Total unused percentage: 0.4686488867051746
+URL: https://www.nationalgeographic.com
+Total bytes: 6065195
+Total unused bytes: 3587625
+Total unused percentage: 0.5915102482277981
+URL: https://www.yr.no
+Total bytes: 756089
+Total unused bytes: 278958
+Total unused percentage: 0.3689486290635097
+URL: https://www.chicagotribune.com
+Total bytes: 8852689
+Total unused bytes: 3764885
+Total unused percentage: 0.4252815161585367
+URL: https://www.hindustantimes.com
+Total bytes: 304966
+Total unused bytes: 145841
+Total unused percentage: 0.4782205229435412
+URL: https://www.owl.english.purdue.edu
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.economist.com
+Total bytes: 3575001
+Total unused bytes: 1762038
+Total unused percentage: 0.4928776243698953
+URL: https://www.aljazeera.com
+Total bytes: 4675844
+Total unused bytes: 1498864
+Total unused percentage: 0.3205547490463754
+URL: https://www.yonhapnews.co.kr
+Total bytes: 4893152
+Total unused bytes: 2013755
+Total unused percentage: 0.41154556408629855
+URL: https://www.my.yahoo.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.alarabiya.net
+Total bytes: 2637226
+Total unused bytes: 1566127
+Total unused percentage: 0.5938539207485442
+URL: https://www.newsnow.co.uk
+Total bytes: 1837354
+Total unused bytes: 1142203
+Total unused percentage: 0.6216564690310087
+URL: https://www.mathrubhumi.com
+Total bytes: 8559092
+Total unused bytes: 5567958
+Total unused percentage: 0.650531388142574
+URL: https://www.smh.com.au
+Total bytes: 7815724
+Total unused bytes: 3092956
+Total unused percentage: 0.3957350592216409
+URL: https://www.fortune.com
+Total bytes: 6474509
+Total unused bytes: 2705965
+Total unused percentage: 0.4179413450502579
+URL: https://www.thestar.com
+Total bytes: 5612356
+Total unused bytes: 2665629
+Total unused percentage: 0.474957219392355
+URL: https://www.voanews.com
+Total bytes: 1650533
+Total unused bytes: 921022
+Total unused percentage: 0.5580148957942677
+URL: https://www.theonion.com
+Total bytes: 7307227
+Total unused bytes: 3819932
+Total unused percentage: 0.5227608229496634
+URL: https://www.theglobeandmail.com
+Total bytes: 4226481
+Total unused bytes: 1511513
+Total unused percentage: 0.3576291955411606
+URL: https://www.theroot.com
+Total bytes: 8222403
+Total unused bytes: 4506465
+Total unused percentage: 0.548071530913773
+URL: https://www.theconversation.com
+Total bytes: 3592214
+Total unused bytes: 2129695
+Total unused percentage: 0.5928641779136766
+URL: https://www.ctvnews.ca
+Total bytes: 4002618
+Total unused bytes: 2059887
+Total unused percentage: 0.514634921443915
+URL: https://www.irna.ir
+Total bytes: 909972
+Total unused bytes: 631767
+Total unused percentage: 0.6942708127283037
+URL: https://www.intellicast.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.blastingnews.com
+Total bytes: 63313
+Total unused bytes: 22094
+Total unused percentage: 0.3489646676038096
+URL: https://www.bankrate.com
+Total bytes: 1930249
+Total unused bytes: 864111
+Total unused percentage: 0.44766815058575343
+URL: https://www.rd.com
+Total bytes: 6566931
+Total unused bytes: 3421286
+Total unused percentage: 0.5209870485924094
+URL: https://www.dailycaller.com
+Total bytes: 7211345
+Total unused bytes: 3288191
+Total unused percentage: 0.45597471761509123
+URL: https://www.financialexpress.com
+Total bytes: 4522998
+Total unused bytes: 2663576
+Total unused percentage: 0.5888961259766199
+URL: https://www.business-standard.com
+Total bytes: 4180646
+Total unused bytes: 2396253
+Total unused percentage: 0.5731776859365754
+URL: https://www.bostonglobe.com
+Total bytes: 7765246
+Total unused bytes: 4208383
+Total unused percentage: 0.541951021255476
+URL: https://www.adweek.com
+Total bytes: 6098188
+Total unused bytes: 2743038
+Total unused percentage: 0.44981197693478786
+URL: https://www.thetimes.co.uk
+Total bytes: 4993732
+Total unused bytes: 2787231
+Total unused percentage: 0.5581458916898223
+URL: https://www.prnewswire.com
+Total bytes: 1272975
+Total unused bytes: 743522
+Total unused percentage: 0.5840821697205365
+URL: https://www.miamiherald.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.mercurynews.com
+Total bytes: 10683338
+Total unused bytes: 5208978
+Total unused percentage: 0.4875796310104576
+URL: https://www.metoffice.gov.uk
+Total bytes: 421831
+Total unused bytes: 250860
+Total unused percentage: 0.5946931354025664
+URL: https://www.zougla.gr
+Total bytes: 5165521
+Total unused bytes: 2879490
+Total unused percentage: 0.5574442539290809
+URL: https://www.seattletimes.com
+Total bytes: 0
+Total unused bytes: 0
+Total unused percentage: NaN
+URL: https://www.france24.com
+Total bytes: 1236993
+Total unused bytes: 557436
+Total unused percentage: 0.4506379583392954
+URL: https://www.theage.com.au
+Total bytes: 7642712
+Total unused bytes: 2668140
+Total unused percentage: 0.34910905971597517
+URL: https://www.azcentral.com
+Total bytes: 6987459
+Total unused bytes: 2675237
+Total unused percentage: 0.38286264005270015
+URL: https://www.dnaindia.com
+Total bytes: 7512646
+Total unused bytes: 3025302
+Total unused percentage: 0.4026946032063803
+URL: https://www.metafilter.com
+Total bytes: 256123
+Total unused bytes: 140844
+Total unused percentage: 0.5499076615532381
+URL: https://www.philly.com
+Total bytes: 6921884
+Total unused bytes: 3537604
+Total unused percentage: 0.5110753083986961
+URL: https://www.globaltimes.cn
+Total bytes: 174995
+Total unused bytes: 78760
+Total unused percentage: 0.45007000200005715
+URL: https://www.topix.com
+Total bytes: 3318151
+Total unused bytes: 1861050
+Total unused percentage: 0.5608695927340257
+URL: https://www.fark.com
+Total bytes: 6340381
+Total unused bytes: 3390839
+Total unused percentage: 0.5348005111995635
+URL: https://www.startribune.com
+Total bytes: 8916504
+Total unused bytes: 4532136
+Total unused percentage: 0.5082862072399676
+URL: https://www.lexisnexis.com
+Total bytes: 639725
+Total unused bytes: 216588
+Total unused percentage: 0.33856422681621007
+URL: https://www.oregonlive.com
+Total bytes: 8830704
+Total unused bytes: 4489906
+Total unused percentage: 0.5084425884957756
+URL: https://www.livemint.com
+Total bytes: 2847947
+Total unused bytes: 1851127
+Total unused percentage: 0.6499864639334931
